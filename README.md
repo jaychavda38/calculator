@@ -35,7 +35,7 @@ The project is designed with a CASIO-style calculator interface and allows users
 
 ## 📸 Project Preview
 
-<img width="778" height="797" alt="image" src="https://github.com/user-attachments/assets/e1154d40-7574-4e95-8e39-0c1e685f001a" />
+<img width="1910" height="861" alt="image" src="https://github.com/user-attachments/assets/986b5e9d-908b-4331-8a02-b698093b0306" />
 
 ## 🎯 Purpose
 

@@ -30,7 +30,7 @@ operations through a clean and easy-to-use interface.
 
 ## 📂 GitHub Repository
 
-👉 Your GitHub Repository Link Here
+👉 https://github.com/jaychavda38/calculator
 
 ## 📸 Project Preview
 

@@ -33,10 +33,6 @@ The project is designed with a CASIO-style calculator interface and allows users
 
 👉 https://github.com/jaychavda38/calculator
 
-## 📸 Project Preview
-
-<img width="1910" height="861" alt="image" src="https://github.com/user-attachments/assets/986b5e9d-908b-4331-8a02-b698093b0306" />
-
 ## 🎯 Purpose
 
 I created this project to practice and improve my

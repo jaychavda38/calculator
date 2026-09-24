@@ -50,7 +50,7 @@ HTML, CSS, and JavaScript skills.
 
 ## 👨‍💻 Author
 
-Your Name
+Jay Chavda
 
 ---
 

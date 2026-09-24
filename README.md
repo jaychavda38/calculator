@@ -26,7 +26,7 @@ operations through a clean and easy-to-use interface.
 
 ## 👀 Live Preview
 
-👉 Your Live Website Link Here
+👉 https://jaychavda38.github.io/calculator/
 
 ## 📂 GitHub Repository
 
@@ -34,7 +34,7 @@ operations through a clean and easy-to-use interface.
 
 ## 📸 Project Preview
 
-Add your calculator screenshot here.
+<img width="778" height="797" alt="image" src="https://github.com/user-attachments/assets/e1154d40-7574-4e95-8e39-0c1e685f001a" />
 
 ## 🎯 Purpose
 

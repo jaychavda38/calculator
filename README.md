@@ -5,8 +5,7 @@
 This is a simple and user-friendly Calculator web application
 created using HTML, CSS, and JavaScript.
 
-The calculator allows users to perform basic mathematical
-operations through a clean and easy-to-use interface.
+The project is designed with a CASIO-style calculator interface and allows users to perform basic mathematical calculations easily.
 
 ### ✨ Features
 
@@ -14,9 +13,11 @@ operations through a clean and easy-to-use interface.
 ✅ Subtraction  
 ✅ Multiplication  
 ✅ Division  
+✅ Percentage calculation
+✅ Positive/Negative sign toggle
 ✅ Clear button  
-✅ User-friendly interface  
-✅ Responsive design  
+✅ Decimal numbers
+✅ Simple and user-friendly interface
 
 ## 🛠️ Tech Stack
 
@@ -41,12 +42,14 @@ operations through a clean and easy-to-use interface.
 I created this project to practice and improve my
 HTML, CSS, and JavaScript skills.
 
+This was one of my beginner projects to understand JavaScript function, button events, and basic calculations.
+
 ## 🚀 Future Improvements
 
-- Add scientific calculator functions
 - Add keyboard support
-- Improve the user interface
+- Improve responsive design
 - Add calculation history
+- Add more advanced mathematical operations
 
 ## 👨‍💻 Author
 
